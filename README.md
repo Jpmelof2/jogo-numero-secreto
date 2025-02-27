@@ -6,7 +6,6 @@
 
 
 <h2>Sobre</h2>
-<p>Projeto utilizado nos curso de lógica de programação da Alura.</p>
 <p>O jogo consiste em adivinhar um número secreto escolhido aleatoriamente pelo sistema.</p>
 
 

@@ -23,6 +23,6 @@
 
 ## 🕹️ Acesse o Jogo Online  
 
-[Jogue agora - Deploy do jogo na Vercel](https://seu-projeto.vercel.app)
+[Jogue agora - Deploy do jogo na Vercel](https://jogo-numero-secreto-six-red.vercel.app/)
 
 
